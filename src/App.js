@@ -32,11 +32,11 @@ function App() {
 		</div>
 
 		<div className="App flex items-center justify-center p-2">
-			<iframe src="http://10.90.138.215:3000/d-solo/fdpa1canapou8a/monidorm-dashboard?orgId=1&from=1718219692383&to=1718824492383&panelId=1" width="650" height="400" frameborder="0"></iframe>
+			<iframe src="http://10.90.138.215:3000/d-solo/fdpa1canapou8a/monidorm-dashboard?orgId=1&from=1718219692383&to=1718824492383&panelId=1" title="dashboard 1" width="650" height="400" frameborder="0"></iframe>
 		</div>
 
 		<div className="App flex items-center justify-center p-2">
-			<iframe src="http://10.90.138.215:3000/d-solo/fdpa1canapou8a/monidorm-dashboard?orgId=1&from=1718745134263&to=1719349934263&panelId=2" width="650" height="400" frameborder="0"></iframe>
+			<iframe src="http://10.90.138.215:3000/d-solo/fdpa1canapou8a/monidorm-dashboard?orgId=1&from=1718745134263&to=1719349934263&panelId=2" title="dashboard 2" width="650" height="400" frameborder="0"></iframe>
 		</div>
 
 
